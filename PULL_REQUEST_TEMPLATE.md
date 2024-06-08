@@ -7,5 +7,4 @@
 - [ ] Melhorias
 
 ## Checklist
-- [ ] Testes foram adicionados ou atualizados
-- [ ] Documentação foi atualizada (se aplicável)
+- [ ] Documentação foi adicionada ou atualizada (se aplicável)
