@@ -53,6 +53,6 @@ As trilhas de desenvolvimento permitirão que os usuários desenvolvam habilidad
 | Gabriel Santiago       | Back-end                            |    
 | Thaleson Silva         | Back-end, full stack, dados         |      
 | Mariana Silveira       | QA, UX, tech writer                 |    
-| Luiz Augusto           | QA, desenvolvimento, versionamento  |
+| Luiz Augusto           | QA, DevOps                          |
 | Felipe Martins Frudeli | Back-end                            |     
 | Gustavo Henrique Carl  | Back-end                            |     
