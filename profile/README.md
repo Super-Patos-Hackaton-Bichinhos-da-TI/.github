@@ -38,9 +38,9 @@ Os eventos terão datas definidas e notificarão os membros por algum meio de co
 As trilhas de desenvolvimento permitirão que os usuários desenvolvam habilidades e se nivelem com outros membros através de desafios. Incluem quizzes e cards sobre perguntas técnicas. Ao terminar uma trilha, o usuário ganhará um certificado indicando seu nível em cada tecnologia ou área.
 
 ## Tecnologias
-***Front-end:*** NextJS, TypeScript, TailwindCSS, Shadcn / UI, Jotai, React Query, Docker, Vitest, pnpm
-***Back-end:*** Java, Spring Boot, Maven, PostgreSQL, Docker 
-***QA/UX:*** Maze, Notion, Figma, GitHub, GitBook, Cypress e GitHub
+- ***Front-end:*** NextJS, TypeScript, TailwindCSS, Shadcn / UI, Jotai, React Query, Docker, Vitest, pnpm;
+- ***Back-end:*** Java, Spring Boot, Maven, PostgreSQL, Docker;
+- ***QA/UX:*** Maze, Notion, Figma, GitHub, GitBook, Cypress e GitHub.
 
 ## Equipe
 
