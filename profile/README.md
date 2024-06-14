@@ -37,17 +37,22 @@ Os eventos terão datas definidas e notificarão os membros por algum meio de co
 
 As trilhas de desenvolvimento permitirão que os usuários desenvolvam habilidades e se nivelem com outros membros através de desafios. Incluem quizzes e cards sobre perguntas técnicas. Ao terminar uma trilha, o usuário ganhará um certificado indicando seu nível em cada tecnologia ou área.
 
+## Tecnologias
+***Front-end:*** NextJS, TypeScript, TailwindCSS, Shadcn / UI, Jotai, React Query, Docker, Vitest, pnpm
+***Back-end:*** Java, Spring Boot, Maven, PostgreSQL, Docker 
+***QA/UX:*** Maze, Notion, Figma, GitHub, GitBook, Cypress e GitHub
+
 ## Equipe
 
-| **Nome**               | **Função**                          | **Tecnologias**  
-|------------------------|-------------------------------------|---------------------------------------
-| Robert Santos          | Front-end                           | NextJS, TypeScript, TailwindCSS, Shadcn / UI, Jotai, React Query, Docker, Vitest, pnpm 
+| **Nome**               | **Função**                          |
+|------------------------|-------------------------------------|
+| Robert Santos          | Front-end                           |  
 | Roberto Júnior         | Front-end, designer, tech recruiter |       
 | Christian Leonardo     | Front-end, designer                 |     
 | Fábio Neves            | Front-end, designer, mobile         |      
-| Gabriel Santiago       | Back-end                            | Java, Spring Boot, Maven, PostgreSQL, Docker      
+| Gabriel Santiago       | Back-end                            |    
 | Thaleson Silva         | Back-end, full stack, dados         |      
-| Mariana Silveira       | QA, UX designer                     | Maze, Notion, Figma, GitHub, GitBook, Cypress      
-| Luiz Augusto           | QA, desenvolvimento, versionamento  | GitHub, Cypress
+| Mariana Silveira       | QA, UX designer                     |    
+| Luiz Augusto           | QA, desenvolvimento, versionamento  |
 | Felipe Martins Frudeli | Back-end                            |     
 | Gustavo Henrique Carl  | Back-end                            |     
