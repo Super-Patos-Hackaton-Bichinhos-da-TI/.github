@@ -7,8 +7,8 @@
 A finalidade é criar uma plataforma semelhante a LeetCode, CodePen, HackerRank, que fosse voltada para a realidade e necessidades da comunidade. Sendo essa, uma plataforma dedicada à aplicação de desafios, desde testes de nivelamento para novos membros, passando por desafios esporádicos e sazonais, até trilhas completas de desenvolvimento - de forma gamificada, incentivando o engajamento através de pontos e conquistas.
 
 O projeto envolve diferentes perfis de usuário: 
-  **1** - Liderados (participar dos desafios);
-  **2** - Líderes (criar desafios e visualizar dados dos seus desafios);
+  **1** - Membros (participantes dos desafios);
+  **2** - Gestores de desafios (criar desafios e visualizar dados dos seus desafios);
   **3** - Administradores gerais (gerenciar usuários e visualizar dados de todos os desafios);
   **4** - Analistas de dados (visualizar dados de todos os desafios).
 
@@ -23,7 +23,7 @@ A área de execução de códigos terá especificações detalhadas dos desafios
 ### Painéis da Plataforma
 
 A plataforma contará com diversos painéis:
-- **Painel de criação de desafios:** para criar desafios simples (CodePen) e complexos (GitHub).
+- **Painel de criação de desafios:** para criar desafios simples (LeetCode) e complexos (GitHub).
 - **Painel de gestão dos desafios:** para visualizar membros, andamento, etapas e submissões.
 - **Painel de pesquisa de desafios:** para liderados procurarem por desafios.
 - **Painel de visualização do desafio:** com informações e botão de participação.
@@ -52,7 +52,7 @@ As trilhas de desenvolvimento permitirão que os usuários desenvolvam habilidad
 | Fábio Neves            | Front-end, designer, mobile         |      
 | Gabriel Santiago       | Back-end                            |    
 | Thaleson Silva         | Back-end, full stack, dados         |      
-| Mariana Silveira       | QA, UX designer                     |    
+| Mariana Silveira       | QA, UX, tech writer                 |    
 | Luiz Augusto           | QA, desenvolvimento, versionamento  |
 | Felipe Martins Frudeli | Back-end                            |     
 | Gustavo Henrique Carl  | Back-end                            |     
