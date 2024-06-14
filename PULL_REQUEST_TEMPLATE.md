@@ -1,10 +1,10 @@
-## Descrição
-<!-- Descreva suas mudanças de forma clara e concisa -->
+## Description
+<!-- Describe your changes clearly and concisely -->
 
-## Tipo de Mudança
+## Type of Change
 - [ ] Bug fix
-- [ ] Nova funcionalidade
-- [ ] Melhorias
+- [ ] New feature
+- [ ] Enhancements
 
 ## Checklist
-- [ ] Documentação foi adicionada ou atualizada (se aplicável)
+- [ ] Documentation has been added or updated (if applicable)
